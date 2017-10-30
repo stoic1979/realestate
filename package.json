@@ -1,0 +1,19 @@
+{
+  "name": "realestate",
+  "version": "1.0.0",
+  "description": "Real estate project in MEAN stack",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoic1979/realestate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoic1979/realestate/issues"
+  },
+  "homepage": "https://github.com/stoic1979/realestate#readme"
+}
