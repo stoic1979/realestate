@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stoic1979/realestate/issues"
   },
-  "homepage": "https://github.com/stoic1979/realestate#readme"
+  "homepage": "https://github.com/stoic1979/realestate#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
